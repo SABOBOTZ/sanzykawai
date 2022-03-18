@@ -62,7 +62,7 @@ global.premium = ['6282245203493']
 global.packname = 'Sabo'
 
 
-global.author = 'Bot'
+global.author = 'Botz'
 
 
 global.sessionName = 'hisoka'
